@@ -1,0 +1,64 @@
+
+body{
+    background-color: NavajoWhite;
+}
+h1{
+    background-color: Peru;
+    border: 10px solid SandyBrown;
+}
+p{
+    background-color: #CD853F;
+    border: 12px solid rgb(244,164,96);
+}
+div{
+    background-color: #A0522D;
+    opacity: 0.8;
+}
+h2{
+    background-color: #CD853F;
+}
+#borda-superior{
+    border-top: 2px dotted SandyBrown;
+    border-bottom: 10px dashed Chocolate;
+    border-right: 4px double Wheat;
+    border-left: 5px ridge BurlyWood;
+}
+
+#borda-inferior{
+    border-top: 2px double SandyBrown;
+    border-bottom: 3px double Chocolate;
+    border-right: 4px double Wheat;
+    border-left: 5px double BurlyWood;
+}  
+
+#borda-direita{
+    border-top: 2px dotted SandyBrown;
+    border-bottom: 3px dotted Chocolate;
+    border-right: 4px dotted Wheat;
+    border-left: 5px dotted BurlyWood;
+}
+
+#borda-esquerda{
+    border-top: 2px dashed SandyBrown;
+    border-bottom: 3px dashed Chocolate;
+    border-right: 4px dashed Wheat;
+    border-left: 5px dashed BurlyWood;
+}
+
+/*trabalhando a margem*/
+
+#margem-superior{
+    margin: 10px 12px 8px 7px;
+}
+
+#margem-inferior{
+    margin-bottom: 15px;
+}
+
+#margem-direita{
+    margin-right: 20px;
+}
+
+#margem-esquerda{
+    margin-left: 20px;
+}
